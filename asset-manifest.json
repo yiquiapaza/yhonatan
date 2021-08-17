@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/yhonatan/static/css/main.e2b5f30e.chunk.css",
-    "main.js": "/yhonatan/static/js/main.3d8425d8.chunk.js",
-    "main.js.map": "/yhonatan/static/js/main.3d8425d8.chunk.js.map",
-    "runtime-main.js": "/yhonatan/static/js/runtime-main.6565dab5.js",
-    "runtime-main.js.map": "/yhonatan/static/js/runtime-main.6565dab5.js.map",
-    "static/js/2.8097774e.chunk.js": "/yhonatan/static/js/2.8097774e.chunk.js",
-    "static/js/2.8097774e.chunk.js.map": "/yhonatan/static/js/2.8097774e.chunk.js.map",
-    "static/js/3.ae5e8f5f.chunk.js": "/yhonatan/static/js/3.ae5e8f5f.chunk.js",
-    "static/js/3.ae5e8f5f.chunk.js.map": "/yhonatan/static/js/3.ae5e8f5f.chunk.js.map",
+    "main.js": "/yhonatan/static/js/main.7982ad83.chunk.js",
+    "main.js.map": "/yhonatan/static/js/main.7982ad83.chunk.js.map",
+    "runtime-main.js": "/yhonatan/static/js/runtime-main.d43bebd9.js",
+    "runtime-main.js.map": "/yhonatan/static/js/runtime-main.d43bebd9.js.map",
+    "static/js/2.d3221fb2.chunk.js": "/yhonatan/static/js/2.d3221fb2.chunk.js",
+    "static/js/2.d3221fb2.chunk.js.map": "/yhonatan/static/js/2.d3221fb2.chunk.js.map",
+    "static/js/3.69e72818.chunk.js": "/yhonatan/static/js/3.69e72818.chunk.js",
+    "static/js/3.69e72818.chunk.js.map": "/yhonatan/static/js/3.69e72818.chunk.js.map",
     "index.html": "/yhonatan/index.html",
     "static/css/main.e2b5f30e.chunk.css.map": "/yhonatan/static/css/main.e2b5f30e.chunk.css.map",
-    "static/js/2.8097774e.chunk.js.LICENSE.txt": "/yhonatan/static/js/2.8097774e.chunk.js.LICENSE.txt"
+    "static/js/2.d3221fb2.chunk.js.LICENSE.txt": "/yhonatan/static/js/2.d3221fb2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6565dab5.js",
-    "static/js/2.8097774e.chunk.js",
+    "static/js/runtime-main.d43bebd9.js",
+    "static/js/2.d3221fb2.chunk.js",
     "static/css/main.e2b5f30e.chunk.css",
-    "static/js/main.3d8425d8.chunk.js"
+    "static/js/main.7982ad83.chunk.js"
   ]
 }
